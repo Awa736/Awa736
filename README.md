@@ -1,5 +1,6 @@
 # 👋 Bienvenue sur mon GitHub !
-![Géomatique] (https://www.sciences.uliege.be/upload/docs/image/jpeg/2020-07/geomatique.jpg)
+
+![Géomatique](https://www.sciences.uliege.be/upload/docs/image/jpeg/2020-07/geomatique.jpg)
 
 ✨ Vous y trouverez mes projets en **SIG, Python, et webmapping**, conçus pour transformer les données en outils utiles et accessibles.
 
@@ -30,5 +31,6 @@
 ---
 
 🌟 **N’hésitez pas à explorer mes projets et à me contacter pour collaborer sur des projets liés aux SIG, au Python ou au webmapping !**
+
 
 
