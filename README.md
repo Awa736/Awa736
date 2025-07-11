@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Bienvenue sur mon GitHub</title>
-  <style>
-    body {
-      background-color: #FFC0CB; /* fond rose */
-      color: white;              /* texte blanc */
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 0;
-      padding: 20px;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      border-bottom: 2px solid white;
-      padding-bottom: 8px;
-    }
-    a {
-      color: #fff;
-      text-decoration: underline;
-    }
-    .badges img {
-      margin-right: 10px;
-      vertical-align: middle;
-    }
-    hr {
-      border: 1px solid white;
-      margin: 30px 0;
-    }
-    .footer-image {
-      display: block;
-      margin: 40px auto 0 auto;
-      max-width: 90%;
-      border-radius: 15px;
-      box-shadow: 0 0 15px rgba(0,0,0,0.3);
-    }
-  </style>
-</head>
-<body>
+
   <h1>👋 Bienvenue sur mon GitHub !</h1>
   <p>✨ Vous y trouverez mes projets en <strong>SIG, Python, et webmapping</strong>, conçus pour transformer les données en outils utiles et accessibles.</p>
 
