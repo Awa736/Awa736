@@ -1,5 +1,6 @@
 
   <h1>👋 Bienvenue sur mon GitHub !</h1>
+  ![Couche géographique](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.linkedin.com%2Fpulse%2Fg%25C3%25A9omatique-un-mot-anonyme-qui-cache-domaine-de-pointe-julien-mbiankeu&psig=AOvVaw3G7x56r469aNr6eO-7dhkB&ust=1752325043587000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCW6dPttI4DFQAAAAAdAAAAABAU)
   <p>✨ Vous y trouverez mes projets en <strong>SIG, Python, et webmapping</strong>, conçus pour transformer les données en outils utiles et accessibles.</p>
 
   <h2>🌍 À propos de moi</h2>
